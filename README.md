@@ -1,10 +1,10 @@
 ![Aditya Vikram Singh Banner](fondo.png)
 
-<img alt="Night Coding" src="./Honey Vcode.png" width='40' align="left"/><h2>Hey there! I'm Rebeca</h2>
+<img alt="Night Coding" src="./Honey Vcode.png" width='60' align="left"/><h2>Hi everione Honey VCode Here </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rebeca -->
 
-### 👨🏻‍💻 &nbsp;About Me
+###  &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
