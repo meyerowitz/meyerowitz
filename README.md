@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](fondo.png)
 
-<img alt="Night Coding" src="./fondo.png" width='40' align="left"/><h2>Hey there! I'm Rebeca</h2>
+<img alt="Night Coding" src="./Honey Vcode.png" width='40' align="left"/><h2>Hey there! I'm Rebeca</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rebeca -->
 
