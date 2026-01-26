@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design , Marketing and Ilustration as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an instagram at honey_pinturillas and honey_vcode! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Linkedlin]([https://www.adityavsingh.com/resume.html](https://www.linkedin.com/in/rebeca-meyerowitz-85398a380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Linkedlin](https://www.linkedin.com/in/rebeca-meyerowitz-85398a380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
