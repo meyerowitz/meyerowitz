@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](fondo.png)
+![Aditya Vikram Singh Banner](Banner.png)
 
 <img alt="Night Coding" src="./Honey Vcode.png" width='60' align="left"/><h2>Hi there!, Honey VCode here </h2>
 
